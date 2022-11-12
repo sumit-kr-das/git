@@ -1,5 +1,7 @@
 # How to keep up to date a forked repo
 
+![forked_demo](https://user-images.githubusercontent.com/73597446/201460511-5bbc47d6-bab1-492d-92f8-d94692d6ddee.png)
+
 #### Clone the repo first
 ```git
   $ git clone <url>
