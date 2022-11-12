@@ -25,11 +25,11 @@
 
 
 #### For update origin with changes that happened in upstream
-##### or pull down all the remote changes from upstream
+- or pull down all the remote changes from upstream
+- they are not merge with our local changes
 ```git
   $ git fetch upstream
 ```
-##### they are not merged with our local changes
 
 
 #### For merge with local file
